@@ -1,0 +1,1 @@
+## con "git fetch" mi fa vedere i comabiamenti effettuati a differenza del git pull che li prende direttamente(va usato prima del git pull)
